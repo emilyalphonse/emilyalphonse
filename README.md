@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <p align="left">
-  <a href="https://www.linkedin.com/in/emilyalphonse/" target="_blank">
+  <a href="https://www.linkedin.com/in/emily-alphonse-37b8b9303/" target="_blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" 
          alt="linkedin" 
