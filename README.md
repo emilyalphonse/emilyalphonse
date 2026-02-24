@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emily Alphonse</h1>
+<h1 align="center">Hi, I'm Emily Alphonse</h1>
 <h3 align="center">Informasjonsvitenskap UiB</h3>
 
 <h3 align="left">Connect with me:</h3>
